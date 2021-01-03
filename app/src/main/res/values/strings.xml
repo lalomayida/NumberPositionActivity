@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberPositionActivity</string>
+    <string name="inputBoxHint" translatable="false">Introduce 4 dígitos</string>
+    <string name="buttonText">Evaluar</string>
+    <string name="labelValue">"Posición: "</string>
+    <string name="guessValue">Numero de evaluación</string>
+    <string name="first_name">Nombre</string>
+</resources>
